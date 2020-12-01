@@ -19,11 +19,11 @@ OctoCat ^
 
 ```cpp
 inStream.open("Database.txt");
-    if (!inStream)
-    {
-        cerr << "File could not be opened!";
-        exit(1);
-    }
+if (!inStream)
+  {
+     cerr << "File could not be opened!";
+     exit(1);
+  }
 ```
 
 :trollface:
