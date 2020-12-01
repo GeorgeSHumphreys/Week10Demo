@@ -15,6 +15,11 @@ OctoCat ^
 1. Simpsons Hit and Run
 1. League of Legends
 
+## Pro-dev Checklist
+[x] First draft of Assignment
+[ ] Add References
+[ ] Add Conclusion
+
 ## GEC Module Snippet
 
 ```cpp
